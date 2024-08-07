@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jendoubi Majdi</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/ZnYRVJcgiVPEK5v8A">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jendoubimajdi&label=Profile%20views&color=0e75b6&style=flat" alt="jendoubimajdi" /> </p>
 
